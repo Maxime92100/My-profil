@@ -1,0 +1,36 @@
+/* Colors and fonts */
+body {
+background-color: #F6F9FC;
+color: #525F7F;
+font-family: font-family: 'Gelasio', serif;
+font-size: 16px
+font-weight: lighter;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+ color: #1BB978;
+ font-family: font-family: 'Roboto', sans-serif;; 
+font-weight: 100;
+letter-spacing: 10px
+}
+
+h2 {
+	color: #3ECF8E;
+ font-family: font-family: 'Roboto', sans-serif;; 
+font-weight: bold;
+letter-spacing: 12px
+}
+
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	content: #4553FF;
+	font-weight: bold;
+}
+a:hover {
+	color: black;
+}
+
